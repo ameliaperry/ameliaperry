@@ -5,8 +5,8 @@ description: Research & software for theoretical computer science and algebraic 
 logo: default-120x120.jpg # 120x120 px default image used for Twitter summary card
 teaser: "default-400x250.jpg" # 400x250 px default teaser image used in image archive grid
 locale:
-#url: http://willperry.me
-url: http://localhost:4000
+url: http://willperry.me
+#url: http://localhost:4000
 
 # Jekyll configuration
 
