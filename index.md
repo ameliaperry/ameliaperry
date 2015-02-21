@@ -12,5 +12,5 @@ I spent my undergraduate years at [Keble College, Oxford](http://www.keble.ox.ac
 
 ## Contact
 Send emails to `will` at this domain, or to `wperry` at mit.  
-My office at MIT is E17-301y. ([Where is that?](/images/office-map.png))
+My office at MIT is E17-301y. ([Floor plan](/images/office-map.png), [map](http://whereis.mit.edu/?go=E17))
 
