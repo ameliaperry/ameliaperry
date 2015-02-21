@@ -6,9 +6,11 @@ title: "Teaching"
 
 ## MIT
 
-Grader for 18.330 [Introduction to Numerical Analysis](http://homerreid.dyndns.org/teaching/18.330/), taught by Homer Reid. Spring 2015.
+Teaching assistant for:
 
-TA for 6.042/18.062J [Mathematics for Computer Scientists](https://courses.csail.mit.edu/6.042/fall14/), taught by Tom Leighton and Ankur Moitra. Fall 2014. My role here was mostly to prepare problem sets, solutions, and exams, but I also covered for a few recitations.
+* 18.330 [Introduction to Numerical Analysis](http://homerreid.dyndns.org/teaching/18.330/), taught by Homer Reid. Spring 2015.
+
+* 6.042/18.062J [Mathematics for Computer Scientists](https://courses.csail.mit.edu/6.042/fall14/), taught by Tom Leighton and Ankur Moitra. Fall 2014.
 
 
 ## PROMYS

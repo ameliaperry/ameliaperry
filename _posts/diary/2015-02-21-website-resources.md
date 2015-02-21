@@ -1,7 +1,8 @@
 ---
 layout: article
 title: "Website resources"
-date: 2015-02-21 02:33:45 -0500
+modified: 2015-02-21
+date: 2015-02-21
 comments: true
 categories: diary
 tags: website

@@ -21,7 +21,7 @@ This program computes $\mathrm{Ext}_A(M,\mathbb{F}_p)$, where
 * $M$ is an A-module, either one of a few standard examples, or else specified in Bruner's MDF format,
 * $p$ is any prime.
 
-A couple of other miscellaneous computations are included, such as the $E_2$ page of the Cartan-Eilenberg spectral sequence.
+A couple of other miscellaneous computations are included, such as the $E_2$ page of the Cartan--Eilenberg / algebraic Novikov spectral sequence.
 
 Output takes the form of a scrollable chart, with products by the first three Hopf elements drawn. For a laugh, there's also a 3D viewer for the trigraded computations.
 
