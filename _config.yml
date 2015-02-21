@@ -1,0 +1,39 @@
+# Site wide configuration
+
+title: Will Perry
+description: Research & software for theoretical computer science and algebraic topology.
+logo: default-120x120.jpg # 120x120 px default image used for Twitter summary card
+teaser: "default-400x250.jpg" # 400x250 px default teaser image used in image archive grid
+locale:
+#url: http://willperry.me
+url: http://localhost:4000
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+markdown: pandoc
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+pandoc:
+    skip: false
+    flags: '--smart --mathjax'
+
+
+# Site owner
+owner:
+  name: Will Perry
+  email: will@willperry.me
+  twitter:
+  google:
+    ad-client: 
+    ad-slot: 
+  bio: Mathematics graduate student at MIT.
+  avatar: "portrait-160x160.jpg" # 160x160 px image for author byline
+disqus-shortname: willperry
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

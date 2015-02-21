@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: Diary
+  url: /diary/
+  excerpt: "Math thoughts written down, but not exactly a blog."
+  image: "mindmap-300x200.png"
+
+- title: Teaching
+  url: /teaching/
+  excerpt: "Courses and summer programs."
+  image: "teaching-300x200.jpg"
+
+- title: Software
+  url: /software/
+  excerpt: "My software, mostly for algebraic topology."
+  image: "resolution-300x200.png"
+
+- title: GitHub
+  url: http://github.com/willperry
+  excerpt: "Source code and history for my software."
+  image: "github-300x200.png"
+
