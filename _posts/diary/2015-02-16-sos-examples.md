@@ -4,7 +4,7 @@ title: "SoS examples"
 date: 2015-02-16 23:03:47 -0500
 comments: true
 categories: diary
-tags: SoS proof-complexity
+tags: [SoS, proof-complexity]
 ---
 
 Some examples to do with the SoS proof system.
