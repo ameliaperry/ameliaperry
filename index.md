@@ -2,7 +2,15 @@
 layout: default
 permalink: /
 title: "Home"
+image:
+  feature: "markers-1100x141.jpg"
 ---
+<div class="page-feature">
+<div class="page-image">
+<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+</div><!-- /.page-image -->
+</div><!-- /.page-feature -->
 
 ## About
 
