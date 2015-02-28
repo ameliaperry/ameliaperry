@@ -9,7 +9,7 @@ image:
   feature: "resolution-1100x360.png"
   teaser: "resolution-400x250.png"
   thumb:
-date: 2015-02-20T22:40:28-05:00
+date: 2013-11-12
 comments: true
 ---
 
