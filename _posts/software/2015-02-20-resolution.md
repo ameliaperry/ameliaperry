@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: software
 title: "resolution"
 modified: 2015-02-20
 categories: software

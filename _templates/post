@@ -1,5 +1,5 @@
 ---
-layout: {{ layout }}
+layout: {{ dir }}
 title: {{ title }}
 modified:
 categories: {{ dir }}

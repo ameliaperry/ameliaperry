@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: diary
 title: "SoS examples"
 date: 2015-02-16 23:03:47 -0500
 comments: true

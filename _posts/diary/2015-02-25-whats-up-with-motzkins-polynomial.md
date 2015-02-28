@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: diary
 title: "What's Up With Motzkin's Polynomial?"
 modified:
 categories: diary

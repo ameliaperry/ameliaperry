@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: diary
 title: "Website resources"
 modified: 2015-02-21
 date: 2015-02-21

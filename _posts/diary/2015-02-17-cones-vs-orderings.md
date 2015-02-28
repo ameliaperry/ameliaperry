@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: diary
 title: "Cones vs orderings"
 date: 2015-02-17 15:12:10 -0500
 comments: true

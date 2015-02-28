@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: diary 
 title: "SoS in Julia, First Steps"
 modified:
 categories: diary
