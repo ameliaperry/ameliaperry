@@ -1,9 +1,14 @@
 # Site navigation links
 
-- title: Diary
-  url: /diary/
-  excerpt: "Math thoughts written down, but not exactly a blog."
-  image: "mindmap-300x200.png"
+#- title: Diary
+#  url: /diary/
+#  excerpt: "Math thoughts written down, but not exactly a blog."
+#  image: "mindmap-300x200.png"
+
+- title: Publications
+  url: /publications/
+  excerpt: "Papers and notes."
+  image: "publications-300x200.jpg"
 
 - title: Teaching
   url: /teaching/
