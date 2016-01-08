@@ -23,7 +23,7 @@ I spent my undergraduate years at [Keble College, Oxford](http://www.keble.ox.ac
 
 ## Contact
 Send emails to `will` at this domain, or to `wperry` at mit.  
-My office at MIT is 2-342. [map](http://whereis.mit.edu/?go=2))
+My office at MIT is 2-342. [map](http://whereis.mit.edu/?go=2)
 
 </article>
 </div>
