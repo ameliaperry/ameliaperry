@@ -12,6 +12,7 @@ title: "Publications"
 | How Robust are Reconstruction Thresholds for Community Detection?
 |     With A. Moitra and A. S. Wein.
 |     Preprint, 2015. [arXiv](http://arxiv.org/abs/1511.01473) [pdf](http://arxiv.org/pdf/1511.01473.pdf)
+|     To appear in STOC 2016.
 |
 | A semidefinite program for unbalanced multisection in the stochastic block model.
 |     With A. S. Wein.

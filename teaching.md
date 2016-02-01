@@ -11,6 +11,8 @@ title: "Teaching"
 
 Teaching assistant for:
 
+* 18.03 Differential Equations, taught by David Jerison and Jon Kelner. Spring 2016.
+
 * 18.657 [Mathematics of Machine Learning](http://www-math.mit.edu/~rigollet/courses/657_F15.html), taught by Philippe Rigollet. Fall 2015.
 
 * 18.330 [Introduction to Numerical Analysis](http://homerreid.dyndns.org/teaching/18.330/), taught by Homer Reid. Spring 2015.
