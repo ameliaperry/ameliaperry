@@ -9,9 +9,11 @@ title: "Teaching"
 
 ## MIT
 
-Teaching assistant for:
+Recitation TA for:
 
 * 18.03 Differential Equations, taught by David Jerison and Jon Kelner. Spring 2016.
+
+Grader for:
 
 * 18.657 [Mathematics of Machine Learning](http://www-math.mit.edu/~rigollet/courses/657_F15.html), taught by Philippe Rigollet. Fall 2015.
 
