@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Will Perry
-description: Research & software for theoretical computer science and algebraic topology.
+title: Amelia Perry
+description: Personal website on research in theoretical computer science
 logo: default-120x120.jpg # 120x120 px default image used for Twitter summary card
 teaser: "default-400x250.jpg" # 400x250 px default teaser image used in image archive grid
 locale:
-url: http://willperry.me
+url: http://ameliaperry.me
 #url: http://localhost:4000
 
 # Jekyll configuration
@@ -25,14 +25,14 @@ pandoc:
 
 # Site owner
 owner:
-  name: Will Perry
-  email: will@willperry.me
+  name: Amelia Perry
+  email: amelia@ameliaperry.me
   twitter:
   google:
     ad-client: 
     ad-slot: 
   bio: Mathematics graduate student at MIT.
-  avatar: "portrait-160x160.jpg" # 160x160 px image for author byline
+  avatar: #"portrait-160x160.jpg" # 160x160 px image for author byline
 disqus-shortname: 
 
 

@@ -25,12 +25,12 @@ A couple of other miscellaneous computations are included, such as the $E_2$ pag
 
 Output takes the form of a scrollable chart, with products by the first three Hopf elements drawn. For a laugh, there's also a 3D viewer for the trigraded computations.
 
-This software is open-source, hosted [in this github repository](https://github.com/willperry/resolution).
+This software is open-source, hosted [in this github repository](https://github.com/ameliaperry/resolution).
 
 
 # Download & use
 
-Running the program requires only [one JAR file, available here](http://willperry.me/downloads/resolution-latest.jar).
+Running the program requires only [one JAR file, available here](http://ameliaperry.me/downloads/resolution-latest.jar).
 
 For trigraded computations in the 2D viewer, there are controls to limit the visible range for the third grading; these are also jointly controlled by the `PgUp` and `PgDn` keys on your keyboard, in case you want to quickly step through cross-sections.
 

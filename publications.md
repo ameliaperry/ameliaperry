@@ -10,16 +10,15 @@ title: "Publications"
 ## Papers
 
 | How Robust are Reconstruction Thresholds for Community Detection?
-|     With A. Moitra and A. S. Wein.
-|     Preprint, 2015. [arXiv](http://arxiv.org/abs/1511.01473) [pdf](http://arxiv.org/pdf/1511.01473.pdf)
-|     To appear in STOC 2016.
+|     With A. Moitra and A. S. Wein. 
+|     In STOC 2016. [arXiv](http://arxiv.org/abs/1511.01473) [pdf](http://arxiv.org/pdf/1511.01473.pdf)
 |
 | A semidefinite program for unbalanced multisection in the stochastic block model.
-|     With A. S. Wein.
+|     With A. S. Wein. 
 |     Preprint, 2015. [arXiv](http://arxiv.org/abs/1507.05605) [pdf](http://arxiv.org/pdf/1507.05605.pdf)
 |
 | Spin two-dimensional local field theories.
-|     MMath thesis, 2013.
+|     MMath thesis, University of Oxford, 2013.
 
 </div>
 </article>

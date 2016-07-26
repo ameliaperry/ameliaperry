@@ -22,7 +22,7 @@ I am a fourth-year graduate student in the [MIT Department of Mathematics](http:
 I spent my undergraduate years at [Keble College, Oxford](http://www.keble.ox.ac.uk/), mainly thinking about algebraic topology. Code for various topology computations is available on my [github](http://github.com/willperry) page.
 
 ## Contact
-Send emails to `will` at this domain, or to `wperry` at mit.  
+Send emails to `amelia` at this domain, or to `ameliaperry` at mit.  
 My office at MIT is 2-342. [map](http://whereis.mit.edu/?go=2)
 
 </article>

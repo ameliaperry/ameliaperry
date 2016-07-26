@@ -4,7 +4,7 @@ permalink: /software/
 title: "Software"
 ---
 
-All of my software here is open-source, hosted on [GitHub](http://github.com/willperry).
+All of my software here is open-source, hosted on [GitHub](http://github.com/ameliaperry).
 
 <div class="tiles">
 {% for post in site.categories.software %}

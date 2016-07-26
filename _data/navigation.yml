@@ -1,10 +1,5 @@
 # Site navigation links
 
-#- title: Diary
-#  url: /diary/
-#  excerpt: "Math thoughts written down, but not exactly a blog."
-#  image: "mindmap-300x200.png"
-
 - title: Publications
   url: /publications/
   excerpt: "Papers and notes."
@@ -21,7 +16,7 @@
   image: "resolution-300x200.png"
 
 #- title: GitHub
-#  url: http://github.com/willperry
+#  url: http://github.com/ameliaperry
 #  excerpt: "Source code and history for my software."
 #  image: "github-300x200.png"
 
