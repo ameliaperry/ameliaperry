@@ -5,9 +5,14 @@
   excerpt: "Papers and notes."
   image: "publications-300x200.png"
 
+- title: Talks
+  url: /talks/
+  excerpt: "Slides for talks, including those by coauthors."
+  image: "talks-300x200.png"
+
 - title: Teaching
   url: /teaching/
-  excerpt: "Courses and summer programs."
+  excerpt: "Courses and summer programs taught."
   image: "teaching-300x200.jpg"
 
 - title: Software
