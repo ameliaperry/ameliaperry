@@ -83,4 +83,4 @@ MathJax.Hub.Config({
 		},
 	"HTML-CSS": { availableFonts: ["TeX"] }
 	});
-MathJax.Ajax.loadComplete("http://willperry.me/js/MathJaxLocal.js");
+MathJax.Ajax.loadComplete("http://ameliaperry.me/js/MathJaxLocal.js");
