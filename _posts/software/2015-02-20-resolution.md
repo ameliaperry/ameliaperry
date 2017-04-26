@@ -11,6 +11,7 @@ image:
   thumb:
 date: 2013-11-12
 comments: true
+use_math: true
 ---
 
 Variations on a theme: the cohomology of the Steenrod algebra, providing the $E_2$ page of the Adams spectral sequence.

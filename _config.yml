@@ -14,14 +14,11 @@ sass:
     sass_dir: _sass
     style: compressed
 permalink: /:categories/:title/
-markdown: pandoc
+markdown: kramdown
 highlighter: pygments
 gems:
   - jekyll-sitemap
-pandoc:
-    skip: false
-    flags: '--smart --mathjax'
-
+  - jekyll-pandoc
 
 # Site owner
 owner:

@@ -21,9 +21,9 @@
     <meta http-equiv="cleartype" content="on">
 
     <!--- MathJax Configuration -->
-    <script type="text/javascript"
-        src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,/js/MathJaxLocal.js">
-    </script>
+    {% if page.use_math %}
+      {% include mathjax_support %}
+    {% endif %}
 
     <!--- analytics -->
     <script>
