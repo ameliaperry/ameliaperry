@@ -4,6 +4,8 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+{::options parse_block_html="true" /}
+
 <div id="main" role="main">
 <article class="wrap" itemscope itemtype="http://schema.org/Article">
 

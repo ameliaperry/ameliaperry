@@ -5,6 +5,9 @@ title: "Home"
 image:
   feature: "markers-1100x141.jpg"
 ---
+
+{::options parse_block_html="true" /}
+
 <div class="page-feature">
 <div class="page-image">
 <img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
@@ -19,7 +22,7 @@ image:
 
 I am a fourth-year graduate student in the [MIT Department of Mathematics](http://math.mit.edu), co-advised by [Ankur Moitra](http://people.csail.mit.edu/moitra/) and [Jon Kelner](http://math.mit.edu/~kelner/). My interests lie broadly in theoretical computer science, machine learning, statistics, and optimization. More specifically, I currently work on algorithms and statistical lower bounds for structured inverse problems, such as [community detection](https://en.wikipedia.org/wiki/Community_structure) or estimating orientations in [cryo-EM](https://en.wikipedia.org/wiki/Cryo-electron_microscopy). One theme running through my research is to understand how algorithms and predictions from statistical physics ([belief propagation](https://en.wikipedia.org/wiki/Belief_propagation) and its variants) compare to those from convex optimization (semidefinite programming and the [sum of squares hierarchy](http://en.wikipedia.org/wiki/Sum-of-squares_optimization)). 
 
-I spent my undergraduate years at [Keble College, Oxford](http://www.keble.ox.ac.uk/), mainly thinking about algebraic topology. Code for various topology computations is available on my [github](http://github.com/ameliaperry) page.
+I spent my undergraduate years at [Keble College, Oxford](http://www.keble.ox.ac.uk/), mainly thinking about algebraic topology. Code for various topology computations is available on my [github](https://github.com/ameliaperry) page.
 
 ## Contact
 Send emails to `amelia` at this domain, or to `ameliaperry` at mit.  
