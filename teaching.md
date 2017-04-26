@@ -9,6 +9,12 @@ title: "Teaching"
 
 ## MIT
 
+Research mentor for:
+
+* [SPUR](https://math.mit.edu/research/undergraduate/spur/), summer research opportunity. Mentored two students in summer 2016.
+
+* [UROP+](https://math.mit.edu/research/undergraduate/urop-plus/), summer research opportunity. Mentored one student in summer 2016.
+
 Recitation TA for:
 
 * 18.03 Differential Equations, taught by David Jerison and Jon Kelner. Spring 2016.
