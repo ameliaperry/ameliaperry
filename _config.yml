@@ -5,7 +5,7 @@ description: Personal website on research in theoretical computer science
 logo: default-120x120.jpg # 120x120 px default image used for Twitter summary card
 teaser: "default-400x250.jpg" # 400x250 px default teaser image used in image archive grid
 locale:
-url: http://ameliaperry.github.io/ameliaperry
+url: https://ameliaperry.github.io/ameliaperry
 #url: http://ameliaperry.me
 #url: http://localhost:4000
 
