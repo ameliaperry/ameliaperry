@@ -12,22 +12,16 @@ title: "Teaching"
 ## MIT
 
 Research mentor for:
-
-* [SPUR](https://math.mit.edu/research/undergraduate/spur/), summer research opportunity. Mentored two students in summer 2016.
-
-* [UROP+](https://math.mit.edu/research/undergraduate/urop-plus/), summer research opportunity. Mentored one student in summer 2016.
+: [SPUR](https://math.mit.edu/research/undergraduate/spur/), summer research opportunity. Mentored two students in summer 2016.
+: [UROP+](https://math.mit.edu/research/undergraduate/urop-plus/), summer research opportunity. Mentored one student in summer 2016.
 
 Recitation TA for:
-
-* 18.03 Differential Equations, taught by David Jerison and Jon Kelner. Spring 2016.
+: 18.03 Differential Equations, taught by David Jerison and Jon Kelner. Spring 2016.
 
 Grader for:
-
-* 18.657 [Mathematics of Machine Learning](http://www-math.mit.edu/~rigollet/courses/657_F15.html), taught by Philippe Rigollet. Fall 2015.
-
-* 18.330 [Introduction to Numerical Analysis](http://homerreid.dyndns.org/teaching/18.330/), taught by Homer Reid. Spring 2015.
-
-* 6.042/18.062J [Mathematics for Computer Scientists](https://courses.csail.mit.edu/6.042/fall14/), taught by Tom Leighton and Ankur Moitra. Fall 2014.
+: 18.657 [Mathematics of Machine Learning](http://www-math.mit.edu/~rigollet/courses/657_F15.html), taught by Philippe Rigollet. Fall 2015.
+: 18.330 [Introduction to Numerical Analysis](http://homerreid.dyndns.org/teaching/18.330/), taught by Homer Reid. Spring 2015.
+: 6.042/18.062J [Mathematics for Computer Scientists](https://courses.csail.mit.edu/6.042/fall14/), taught by Tom Leighton and Ankur Moitra. Fall 2014.
 
 
 ## PROMYS
