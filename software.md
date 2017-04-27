@@ -5,7 +5,7 @@ title: "Software"
 use_math: true
 ---
 
-All of my software here is open-source, hosted on [GitHub](https://github.com/ameliaperry).
+My software here is open-source, hosted on [GitHub](https://github.com/ameliaperry).
 
 <div class="tiles">
 {% for post in site.categories.software %}
