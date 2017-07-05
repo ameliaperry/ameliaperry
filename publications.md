@@ -25,7 +25,7 @@ title: "Publications"
 
 [Message-passing algorithms for synchronization problems over compact groups.](http://arxiv.org/abs/1610.04583)
 : With Alexander S. Wein, Afonso S. Bandeira, and Ankur Moitra.
-: Preprint appeared Oct 2016. [arXiv](http://arxiv.org/abs/1610.04583) [pdf](http://arxiv.org/pdf/1610.04583.pdf)
+: To appear in Communications on Pure and Applied Mathematics. Preprint appeared Oct 2016. [arXiv](http://arxiv.org/abs/1610.04583) [pdf](http://arxiv.org/pdf/1610.04583.pdf)
 
 [Optimality and Sub-optimality of PCA for Spiked Random Matrices and Synchronization.](http://arxiv.org/abs/1609.05573)
 : With Alexander S. Wein, Afonso S. Bandeira, and Ankur Moitra.
@@ -39,7 +39,7 @@ title: "Publications"
 
 [A semidefinite program for unbalanced multisection in the stochastic block model.](http://arxiv.org/abs/1507.05605)
 : With Alexander S. Wein. 
-: To appear in [SampTA 2017](http://sampta2017.ee). Preprint appeared Jul 2015. [arXiv](http://arxiv.org/abs/1507.05605) [pdf](http://arxiv.org/pdf/1507.05605.pdf)
+: In [SampTA 2017](http://sampta2017.ee). Preprint appeared Jul 2015. [arXiv](http://arxiv.org/abs/1507.05605) [pdf](http://arxiv.org/pdf/1507.05605.pdf)
 
 ###### 2013
 
