@@ -11,6 +11,12 @@ title: "Publications"
 
 ## Papers (by date of first public appearance)
 
+###### 2017
+
+[The sample complexity of multi-reference alignment.](http://arxiv.org/abs/1707.00943)
+: With Jonathan Weed, Afonso S. Bandeira, Philippe Rigollet, and Amit Singer.
+: Preprint appeared Jul 2017. [arXiv](http://arxiv.org/abs/1707.00943) [pdf](http://arxiv.org/pdf/1707.00943.pdf)
+
 ###### 2016
 
 [Statistical limits of spiked tensor models.](http://arxiv.org/abs/1612.07728) 
