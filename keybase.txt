@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/kepsega
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ameliaperry.me
+  * I am kepsega (https://keybase.io/kepsega) on keybase.
+  * I have a public key ASB4bqMtE1aVzjr3SdSn5BQsDzZ3G-rFdH6S8qe_gwj0ewo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120786ea32d135695ce3af749d4a7e4142c0f36771beac5747e92f2a7bf8308f47b0a",
+      "host": "keybase.io",
+      "kid": "0120786ea32d135695ce3af749d4a7e4142c0f36771beac5747e92f2a7bf8308f47b0a",
+      "uid": "5fc0b97c738e9775689ee98abce94719",
+      "username": "kepsega"
+    },
+    "merkle_root": {
+      "ctime": 1505104788,
+      "hash": "bdce970590484d8e63349543f8e591e9fe114f44c4fa45667772f666a933359b59845a1e2e0bf5600050d2e3f37a526973360978c05860f52634a27dce9523cc",
+      "hash_meta": "0d2160c41f09bdc1334f09cf3767a392298ba04d7f40152640f0bf24804d124c",
+      "seqno": 1379344
+    },
+    "service": {
+      "hostname": "ameliaperry.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.29"
+  },
+  "ctime": 1505104792,
+  "expire_in": 504576000,
+  "prev": "11d946996c07b24b194b71a0243efd9fbbf1cffbd8341ff99eb2aa684c99c504",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeG6jLRNWlc4690nUp+QULA82dxvqxXR+kvKnv4MI9HsKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzg2ZWEzMmQxMzU2OTVjZTNhZjc0OWQ0YTdlNDE0MmMwZjM2NzcxYmVhYzU3NDdlOTJmMmE3YmY4MzA4ZjQ3YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzg2ZWEzMmQxMzU2OTVjZTNhZjc0OWQ0YTdlNDE0MmMwZjM2NzcxYmVhYzU3NDdlOTJmMmE3YmY4MzA4ZjQ3YjBhIiwidWlkIjoiNWZjMGI5N2M3MzhlOTc3NTY4OWVlOThhYmNlOTQ3MTkiLCJ1c2VybmFtZSI6ImtlcHNlZ2EifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDUxMDQ3ODgsImhhc2giOiJiZGNlOTcwNTkwNDg0ZDhlNjMzNDk1NDNmOGU1OTFlOWZlMTE0ZjQ0YzRmYTQ1NjY3NzcyZjY2NmE5MzMzNTliNTk4NDVhMWUyZTBiZjU2MDAwNTBkMmUzZjM3YTUyNjk3MzM2MDk3OGMwNTg2MGY1MjYzNGEyN2RjZTk1MjNjYyIsImhhc2hfbWV0YSI6IjBkMjE2MGM0MWYwOWJkYzEzMzRmMDljZjM3NjdhMzkyMjk4YmEwNGQ3ZjQwMTUyNjQwZjBiZjI0ODA0ZDEyNGMiLCJzZXFubyI6MTM3OTM0NH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJhbWVsaWFwZXJyeS5tZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjkifSwiY3RpbWUiOjE1MDUxMDQ3OTIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMTFkOTQ2OTk2YzA3YjI0YjE5NGI3MWEwMjQzZWZkOWZiYmYxY2ZmYmQ4MzQxZmY5OWViMmFhNjg0Yzk5YzUwNCIsInNlcW5vIjo3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQB7d/ObFEpEv2LRdzKRdrFs/XZjRHyN19hPXCuRPO3zihuBpIJDn3qA55CtEJhx70EGfdwuaA8t5ogLKu/d11gGoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDIvMYQmhsuJi2PaTo2oBG/4c8XKUjDDQZUYaMvIYqjIaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kepsega
+
+==================================================================
