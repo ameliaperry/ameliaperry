@@ -27,7 +27,7 @@ I engage in activism around queer & trans rights, mental healthcare reform, and 
 
 ## Family
 
-I live with my primary partner [Daria Phoebe Brashear](https://dariaphoebe.com); our life together revolves around fostering a sense of family in the trans community. Zie works in distributed file systems at [Auristor, Inc.](https://www.auristor.com) My parents live in the greater Boston area; my sister [Nicola](electroceramics.mit.edu/index.php?option=com_content&view=article&id=99&Itemid=157) works in materials science at Kyushu University and MIT, and my sister [Caroline](otd.harvard.edu/about/team/caroline-perry) works in communications at Harvard.
+I live with my primary partner [Daria Phoebe Brashear](https://dariaphoebe.com) with our cat [Nip](https://twitter.com/nipkitten); our life together revolves around fostering a sense of family in the trans community. Zie works in distributed file systems at [Auristor, Inc.](https://www.auristor.com) My parents live in the greater Boston area, working in town planning and software. My sister [Nicola](electroceramics.mit.edu/index.php?option=com_content&view=article&id=99&Itemid=157) works in materials science at Kyushu University and MIT, and my sister [Caroline](otd.harvard.edu/about/team/caroline-perry) works in communications at Harvard.
 
 
 ## On social media
