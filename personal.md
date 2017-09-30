@@ -22,21 +22,19 @@ I welcome anyone with identity overlaps with me, as well as those questioning, t
 
 I'm passionate about music, ranging from baroque classical, through classic rock, blues and funk, to alt metal. I play violin, viola, guitar, bass guitar, ukulele, and enjoy tinkering with any instrument I can get my hands on.
 
-I engage in activism around queer & trans rights, mental healthcare reform, and work in solidarity with other marginalized groups.o
+I engage in activism around queer & trans rights, mental healthcare reform, and work in solidarity with other marginalized groups.
 
 
 ## Family
 
-I live with my primary partner [Daria Phoebe Brashear](https://dariaphoebe.com) with our cat [Nip](https://twitter.com/nipkitten); our life together revolves around fostering a sense of family in the trans community. Zie works in distributed file systems at [Auristor, Inc.](https://www.auristor.com) My parents live in the greater Boston area, working in town planning and software. My sister [Nicola](electroceramics.mit.edu/index.php?option=com_content&view=article&id=99&Itemid=157) works in materials science at Kyushu University and MIT, and my sister [Caroline](otd.harvard.edu/about/team/caroline-perry) works in communications at Harvard.
+I live with my primary partner [Daria Phoebe Brashear](https://dariaphoebe.com) with our cat [Nip](https://twitter.com/nipkitten); our life together revolves around fostering a sense of family in the trans community. Zie works in distributed file systems at [Auristor, Inc.](https://www.auristor.com) My parents live in the greater Boston area, working in town planning and software. My sister [Nicola](https://electroceramics.mit.edu/index.php?option=com_content&view=article&id=99&Itemid=157) works in materials science at Kyushu University and MIT, and my sister [Caroline](https://otd.harvard.edu/about/team/caroline-perry) works in communications at Harvard.
 
 
 ## On social media
 
-Facebook: [Amelia Perry](https://fb.me/kepsega)
-
-Twitter: [@kepsega](https://twitter.com/kepsega)
-
-Keybase: [kepsega](https://keybase.io/kepsega)
+| Facebook: [Amelia Perry](https://fb.me/kepsega)
+| Twitter: [@kepsega](https://twitter.com/kepsega)
+| Keybase: [kepsega](https://keybase.io/kepsega)
 
 
 
