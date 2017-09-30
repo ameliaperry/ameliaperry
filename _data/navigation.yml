@@ -20,6 +20,11 @@
   excerpt: "My software, mostly for algebraic topology."
   image: "resolution-300x200.png"
 
+- title: personal
+  url: /software/
+  excerpt: "My non-mathematical identity, passions, and social media."
+  image: "profile-300x200.png"
+
 #- title: GitHub
 #  url: http://github.com/ameliaperry
 #  excerpt: "Source code and history for my software."
