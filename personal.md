@@ -11,7 +11,7 @@ title: "Personal"
 
 ## Identity
 
-I'm transgender and queer; some more nuanced words that apply to me are non-binary (my gender isn't fully described by "man" or "woman"), genderqueer (I like bending gender norms and binaries), pansexual (I'm attracted to all genders), and polyamorous (I maintain ethical intimate relationships with several people). I'm also white and able-bodied. I use the pronouns [ze/hir/hirs](my.pronoun.is/ze/hir) in queer spaces, and [she/her/hers](my.pronoun.is/she/her) in the general public.
+I'm transgender and queer; some more nuanced words that apply to me are non-binary (my gender isn't fully described by "man" or "woman"), genderqueer (I like bending gender norms and binaries), pansexual (I'm attracted to all genders), and polyamorous (I maintain ethical intimate relationships with several people). I'm also white and able-bodied. I use the pronouns [ze/hir/hirs](https://my.pronoun.is/ze/hir) in queer spaces, and [she/her/hers](https://my.pronoun.is/she/her) in the general public.
 
 Mental illness is a part of my life: I have unipolar depression, anxiety with panic, and PTSD.
 
