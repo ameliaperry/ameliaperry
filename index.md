@@ -32,7 +32,7 @@ My CV is available [here](/cv.pdf).
 
 
 ## Contact
-Send emails to `amelia` at this domain, or to `ameliaperry` at mit.  
+Send emails to `ameliaperry` at mit.  
 My office at MIT is 2-390D. [map](http://whereis.mit.edu/?go=2)
 
 </article>
