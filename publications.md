@@ -13,14 +13,18 @@ title: "Publications"
 
 ###### 2017
 
+[Estimation under group actions: recovering orbits from invariants.](http://math.mit.edu/~awein/orbit-recovery.pdf)
+: Afonso S. Bandeira, Ben Blum-Smith, Amelia Perry, Jonathan Weed, and Alexander S. Wein.
+: Working document in progress, appeared Nov 2017. [link](http://math.mit.edu/~awein/orbit-recovery.pdf)
+
 [The sample complexity of multi-reference alignment.](http://arxiv.org/abs/1707.00943)
-: With Jonathan Weed, Afonso S. Bandeira, Philippe Rigollet, and Amit Singer.
+: Amelia Perry, Jonathan Weed, Afonso S. Bandeira, Philippe Rigollet, and Amit Singer.
 : Preprint appeared Jul 2017. [arXiv](http://arxiv.org/abs/1707.00943) [pdf](http://arxiv.org/pdf/1707.00943.pdf)
 
 ###### 2016
 
 [Statistical limits of spiked tensor models.](http://arxiv.org/abs/1612.07728) 
-: With Alexander S. Wein and Afonso S. Bandeira.
+: Amelia Perry, Alexander S. Wein and Afonso S. Bandeira.
 : Preprint appeared Dec 2016. [arXiv](http://arxiv.org/abs/1612.07728) [pdf](http://arxiv.org/pdf/1612.07728.pdf)
 
 [Message-passing algorithms for synchronization problems over compact groups.](http://arxiv.org/abs/1610.04583)
