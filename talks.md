@@ -12,7 +12,7 @@ title: "Talks"
 ## Talks
 
 [Unbalanced multisection in the stochastic block model.](/downloads/talks/SampTA-2017.pdf)
-: [Sampling Theory and Applications (SampTA 2017](https://sampta2017.ee), July 2017.
+: [Sampling Theory and Applications (SampTA 2017)](https://sampta2017.ee), July 2017.
 
 Computational to statistical gaps: predictions using statistical physics.
 : Workshop on "Connecting communities via the block model", American Institute for Mathematics, May 2017.
