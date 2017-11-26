@@ -15,7 +15,7 @@ title: "Publications"
 
 [Estimation under group actions: recovering orbits from invariants.](http://math.mit.edu/~awein/orbit-recovery.pdf)
 : Afonso S. Bandeira, Ben Blum-Smith, Amelia Perry, Jonathan Weed, and Alexander S. Wein.
-: Working document in progress, appeared Nov 2017. [link](http://math.mit.edu/~awein/orbit-recovery.pdf)
+: Working draft appeared Nov 2017. [link](http://math.mit.edu/~awein/orbit-recovery.pdf)
 
 [The sample complexity of multi-reference alignment.](http://arxiv.org/abs/1707.00943)
 : Amelia Perry, Jonathan Weed, Afonso S. Bandeira, Philippe Rigollet, and Amit Singer.
