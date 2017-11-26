@@ -28,7 +28,7 @@ Moving forward, I am excited to build on my work on cryo-EM by immersing myself 
 
 I spent my undergraduate years at [Keble College, Oxford](http://www.keble.ox.ac.uk/), mainly thinking about algebraic topology, and building a background in pure mathematics that has since proven invaluable.
 
-My CV is available [here](/cv.pdf).
+See also [my CV](/cv.pdf) and [my research statement](/research.pdf).
 
 
 ## Contact
